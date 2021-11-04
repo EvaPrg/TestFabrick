@@ -1,0 +1,8 @@
+it\fabrick\appFabrick\AppFabrickApplication.class
+it\fabrick\appFabrick\Model\Conto.class
+it\fabrick\appFabrick\Repository\ContoRepository.class
+it\fabrick\appFabrick\Controller\Controller.class
+it\fabrick\appFabrick\ServletInitializer.class
+it\fabrick\appFabrick\Repository\BonificoRepository.class
+it\fabrick\appFabrick\Controller\BonificoController.class
+it\fabrick\appFabrick\Model\Bonifico.class
